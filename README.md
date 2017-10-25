@@ -1,4 +1,6 @@
 GoDaddy DynDNS script
+Don't use godaddy!
+![godaddy ceo kills elephant](http://www.geek.com/wp-content/uploads/2011/03/bob-parsons-GoDaddy-elephant.jpg)
 
 To configure the script for your domain to update the GoDaddy entry just fill it
 in with your GoDaddy key and secret.
